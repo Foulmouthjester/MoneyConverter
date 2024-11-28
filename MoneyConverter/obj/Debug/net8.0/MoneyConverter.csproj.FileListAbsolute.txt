@@ -1,0 +1,14 @@
+C:\Users\jeste\source\repos\MoneyConverter\bin\Debug\net8.0\MoneyConverter.exe
+C:\Users\jeste\source\repos\MoneyConverter\bin\Debug\net8.0\MoneyConverter.deps.json
+C:\Users\jeste\source\repos\MoneyConverter\bin\Debug\net8.0\MoneyConverter.runtimeconfig.json
+C:\Users\jeste\source\repos\MoneyConverter\bin\Debug\net8.0\MoneyConverter.dll
+C:\Users\jeste\source\repos\MoneyConverter\bin\Debug\net8.0\MoneyConverter.pdb
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\MoneyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\MoneyConverter.AssemblyInfoInputs.cache
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\MoneyConverter.AssemblyInfo.cs
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\MoneyConverter.csproj.CoreCompileInputs.cache
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\MoneyConverter.dll
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\refint\MoneyConverter.dll
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\MoneyConverter.pdb
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\MoneyConverter.genruntimeconfig.cache
+C:\Users\jeste\source\repos\MoneyConverter\obj\Debug\net8.0\ref\MoneyConverter.dll
